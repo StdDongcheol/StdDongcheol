@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am... 
 
 ![Dongcheol's GitHub stats](https://github-readme-stats.vercel.app/api?username=StdDongcheol&show_icons=true&theme=highcontrast)
 
